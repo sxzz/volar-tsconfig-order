@@ -1,0 +1,6 @@
+{
+  "include": ["src/second.ts", "src/common.ts"],
+  "compilerOptions": {
+    "composite": true
+  }
+}
